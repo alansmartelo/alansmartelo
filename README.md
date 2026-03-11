@@ -1,14 +1,13 @@
 <img src="banner github.png">
-
+<p align="center">
+  📫 <b>Vamos conectar:</b><br>
+  <a href="https://www.linkedin.com/in/alansilvawork/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <table>
   <tr>
-    <td width="30%" align="center">
-      <img src="foto github.png" width="250px" style="border-radius: 50%;" alt="Alan Silva">
-    </td>
-    <td width="70%">
-      <h1>Analista Cloud (AWS re/Start) | Python Automation | Rust Enthusiast</h1>
-      <p><b>PHD em Educação</b> em transição de carreira para Infraestrutura, Automação e Performance.</p>
-      <p>🚀 Atualmente focado em criar soluções seguras com <b>Rust</b>, automações eficientes em <b>Python</b> e arquiteturas escaláveis na <b>AWS</b>.</p>
+     <h1>Analista Cloud (AWS re/Start) | Python Automation | Rust Enthusiast</h1>
+      <p>🎓PHD em Educação</b> em transição de carreira para Infraestrutura, Automação e Performance.</p>
+      <p>🚀 Atualmente focado em criar soluções seguras com <b>🦀Rust</b>, automações eficientes em <b>🐍Python</b> e arquiteturas escaláveis na <b>☁️AWS</b>.</p>
       <p>📍 Salvador, Bahia</p>
     </td>
   </tr>
@@ -32,9 +31,6 @@
 
 ---
 
-<p align="center">
-  📫 <b>Vamos conectar:</b><br>
-  <a href="https://www.linkedin.com/in/alansilvawork/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
   </a>
 </p>
